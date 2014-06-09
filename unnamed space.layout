@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="src/main/images.cpp" open="1" top="0" tabpos="1">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="src/main/info.cpp" open="1" top="0" tabpos="2">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="src/main/info.hpp" open="1" top="0" tabpos="9">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="src/main/log.cpp" open="1" top="0" tabpos="3">
+		<Cursor position="1227" topLine="15" />
+	</File>
+	<File name="src/main/main.cpp" open="1" top="1" tabpos="4">
+		<Cursor position="1823" topLine="75" />
+	</File>
+	<File name="src/status/menu/main.cpp" open="1" top="0" tabpos="5">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="src/status/menu/text.cpp" open="1" top="0" tabpos="6">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="src/status/menu/text.hpp" open="1" top="0" tabpos="7">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="src/status/menu/training.cpp" open="1" top="0" tabpos="8">
+		<Cursor position="0" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>

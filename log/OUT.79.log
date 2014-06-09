@@ -1,0 +1,117 @@
+DEBUG:    Initializing...
+DEBUG:    Getting video modes...
+DEBUG:    Creating window with resolution of 1366x768...
+DEBUG:    Loading images...
+DEBUG:    Initializing Status_Menu...
+DEBUG:    Starting window render loop...
+DEBUG:    Starting window event loop...
+INFO:     Initialization Finished
+DEBUG:    FPS: 40
+WARNING:  Render update is behind -8020 microseconds!
+DEBUG:    FPS: 35
+WARNING:  Render update is behind -11231 microseconds!
+DEBUG:    FPS: 29
+WARNING:  Render update is behind -20952 microseconds!
+DEBUG:    FPS: 29
+WARNING:  Render update is behind -17314 microseconds!
+DEBUG:    FPS: 80
+DEBUG:    FPS: 21
+WARNING:  Render update is behind -29445 microseconds!
+DEBUG:    FPS: 60
+DEBUG:    FPS: 21
+WARNING:  Render update is behind -29221 microseconds!
+DEBUG:    FPS: 228
+DEBUG:    FPS: 19
+WARNING:  Render update is behind -35822 microseconds!
+DEBUG:    FPS: 33
+WARNING:  Render update is behind -13182 microseconds!
+DEBUG:    FPS: 29
+WARNING:  Render update is behind -16731 microseconds!
+DEBUG:    FPS: 179
+DEBUG:    FPS: 61
+DEBUG:    FPS: 173
+DEBUG:    FPS: 51
+WARNING:  Render update is behind -2790 microseconds!
+DEBUG:    FPS: 180
+DEBUG:    FPS: 58
+WARNING:  Render update is behind -576 microseconds!
+DEBUG:    FPS: 190
+DEBUG:    FPS: 61
+DEBUG:    FPS: 216
+DEBUG:    FPS: 61
+DEBUG:    FPS: 212
+DEBUG:    FPS: 62
+DEBUG:    FPS: 154
+DEBUG:    FPS: 61
+DEBUG:    FPS: 147
+DEBUG:    FPS: 62
+DEBUG:    FPS: 153
+DEBUG:    FPS: 62
+DEBUG:    FPS: 150
+DEBUG:    FPS: 60
+DEBUG:    FPS: 150
+DEBUG:    FPS: 54
+WARNING:  Render update is behind -1822 microseconds!
+DEBUG:    FPS: 182
+DEBUG:    FPS: 53
+WARNING:  Render update is behind -2170 microseconds!
+DEBUG:    FPS: 64
+DEBUG:    FPS: 34
+WARNING:  Render update is behind -12365 microseconds!
+DEBUG:    FPS: 187
+DEBUG:    FPS: 60
+DEBUG:    FPS: 168
+DEBUG:    FPS: 58
+WARNING:  Render update is behind -493 microseconds!
+DEBUG:    FPS: 181
+DEBUG:    FPS: 60
+DEBUG:    FPS: 137
+DEBUG:    FPS: 60
+DEBUG:    FPS: 141
+DEBUG:    FPS: 61
+DEBUG:    FPS: 152
+DEBUG:    FPS: 60
+DEBUG:    FPS: 146
+DEBUG:    FPS: 60
+DEBUG:    FPS: 149
+DEBUG:    FPS: 54
+WARNING:  Render update is behind -2175 microseconds!
+DEBUG:    FPS: 35
+WARNING:  Render update is behind -11474 microseconds!
+DEBUG:    FPS: 169
+DEBUG:    FPS: 50
+WARNING:  Render update is behind -3144 microseconds!
+DEBUG:    FPS: 189
+DEBUG:    FPS: 61
+DEBUG:    FPS: 136
+DEBUG:    FPS: 54
+WARNING:  Render update is behind -1839 microseconds!
+DEBUG:    FPS: 131
+DEBUG:    FPS: 63
+DEBUG:    FPS: 158
+DEBUG:    FPS: 63
+DEBUG:    FPS: 151
+DEBUG:    FPS: 60
+DEBUG:    FPS: 172
+DEBUG:    FPS: 50
+WARNING:  Render update is behind -3270 microseconds!
+DEBUG:    FPS: 69
+DEBUG:    FPS: 39
+WARNING:  Render update is behind -8886 microseconds!
+DEBUG:    FPS: 179
+DEBUG:    FPS: 51
+WARNING:  Render update is behind -2960 microseconds!
+DEBUG:    FPS: 186
+DEBUG:    FPS: 59
+WARNING:  Render update is behind -119 microseconds!
+DEBUG:    FPS: 132
+DEBUG:    FPS: 59
+WARNING:  Render update is behind -100 microseconds!
+DEBUG:    FPS: 134
+DEBUG:    FPS: 59
+WARNING:  Render update is behind -57 microseconds!
+DEBUG:    FPS: 133
+DEBUG:    FPS: 60
+WARNING:  Render update is behind -46 microseconds!
+DEBUG:    FPS: 121
+INFO:     Cleaning up...

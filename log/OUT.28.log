@@ -1,0 +1,347 @@
+DEBUG:    Initializing...
+DEBUG:    Getting video modes...
+DEBUG:    Creating window with resolution of 1366x768...
+DEBUG:    Loading images...
+DEBUG:    Initializing Status_Menu...
+DEBUG:    Starting window render loop...
+DEBUG:    Starting window event loop...
+INFO:     Initialization Finished
+DEBUG:    window locking mutex
+DEBUG:    window finished locking mutex
+DEBUG:    render locking mutex
+DEBUG:    window locking mutex
+DEBUG:    render finished locking mutex
+DEBUG:    window finished locking mutex
+WARNING:  Render update is behind -795326 microseconds!
+DEBUG:    render locking mutex
+DEBUG:    window locking mutex
+DEBUG:    render finished locking mutex
+WARNING:  Render update is behind -520920 microseconds!
+DEBUG:    render locking mutex
+DEBUG:    window finished locking mutex
+DEBUG:    window locking mutex
+DEBUG:    render finished locking mutex
+DEBUG:    window finished locking mutex
+WARNING:  Render update is behind -435555 microseconds!
+DEBUG:    render locking mutex
+DEBUG:    window locking mutex
+DEBUG:    window finished locking mutex
+DEBUG:    window locking mutex
+DEBUG:    window finished locking mutex
+DEBUG:    window locking mutex
+DEBUG:    render finished locking mutex
+DEBUG:    window finished locking mutex
+WARNING:  Render update is behind -454341 microseconds!
+DEBUG:    render locking mutex
+DEBUG:    window locking mutex
+DEBUG:    window finished locking mutex
+DEBUG:    window locking mutex
+DEBUG:    window finished locking mutex
+DEBUG:    window locking mutex
+DEBUG:    render finished locking mutex
+DEBUG:    window finished locking mutex
+WARNING:  Render update is behind -454700 microseconds!
+DEBUG:    render locking mutex
+DEBUG:    window locking mutex
+DEBUG:    window finished locking mutex
+DEBUG:    window locking mutex
+DEBUG:    window finished locking mutex
+DEBUG:    window locking mutex
+DEBUG:    render finished locking mutex
+DEBUG:    window finished locking mutex
+WARNING:  Render update is behind -456240 microseconds!
+DEBUG:    render locking mutex
+DEBUG:    window locking mutex
+DEBUG:    window finished locking mutex
+DEBUG:    window locking mutex
+DEBUG:    window finished locking mutex
+DEBUG:    window locking mutex
+DEBUG:    render finished locking mutex
+DEBUG:    window finished locking mutex
+WARNING:  Render update is behind -463351 microseconds!
+DEBUG:    render locking mutex
+DEBUG:    window locking mutex
+DEBUG:    window finished locking mutex
+DEBUG:    window locking mutex
+DEBUG:    window finished locking mutex
+DEBUG:    window locking mutex
+DEBUG:    render finished locking mutex
+WARNING:  Render update is behind -454126 microseconds!
+DEBUG:    render locking mutex
+DEBUG:    window finished locking mutex
+DEBUG:    window locking mutex
+DEBUG:    render finished locking mutex
+WARNING:  Render update is behind -436861 microseconds!
+DEBUG:    render locking mutex
+DEBUG:    window finished locking mutex
+DEBUG:    window locking mutex
+DEBUG:    render finished locking mutex
+WARNING:  Render update is behind -423864 microseconds!
+DEBUG:    render locking mutex
+DEBUG:    window finished locking mutex
+DEBUG:    window locking mutex
+DEBUG:    render finished locking mutex
+WARNING:  Render update is behind -422766 microseconds!
+DEBUG:    render locking mutex
+DEBUG:    window finished locking mutex
+DEBUG:    window locking mutex
+DEBUG:    render finished locking mutex
+WARNING:  Render update is behind -424993 microseconds!
+DEBUG:    render locking mutex
+DEBUG:    window finished locking mutex
+DEBUG:    window locking mutex
+DEBUG:    render finished locking mutex
+WARNING:  Render update is behind -439741 microseconds!
+DEBUG:    render locking mutex
+DEBUG:    window finished locking mutex
+DEBUG:    window locking mutex
+DEBUG:    render finished locking mutex
+WARNING:  Render update is behind -425394 microseconds!
+DEBUG:    render locking mutex
+DEBUG:    window finished locking mutex
+DEBUG:    window locking mutex
+DEBUG:    render finished locking mutex
+WARNING:  Render update is behind -424594 microseconds!
+DEBUG:    render locking mutex
+DEBUG:    window finished locking mutex
+DEBUG:    window locking mutex
+DEBUG:    render finished locking mutex
+WARNING:  Render update is behind -423556 microseconds!
+DEBUG:    render locking mutex
+DEBUG:    window finished locking mutex
+DEBUG:    window locking mutex
+DEBUG:    render finished locking mutex
+WARNING:  Render update is behind -422079 microseconds!
+DEBUG:    render locking mutex
+DEBUG:    window finished locking mutex
+DEBUG:    window locking mutex
+DEBUG:    render finished locking mutex
+DEBUG:    window finished locking mutex
+WARNING:  Render update is behind -432257 microseconds!
+DEBUG:    render locking mutex
+DEBUG:    window locking mutex
+DEBUG:    render finished locking mutex
+DEBUG:    window finished locking mutex
+DEBUG:    window locking mutex
+DEBUG:    window finished locking mutex
+WARNING:  Render update is behind -462652 microseconds!
+DEBUG:    render locking mutex
+DEBUG:    window locking mutex
+DEBUG:    window finished locking mutex
+DEBUG:    window locking mutex
+DEBUG:    render finished locking mutex
+DEBUG:    window finished locking mutex
+WARNING:  Render update is behind -458650 microseconds!
+DEBUG:    render locking mutex
+DEBUG:    window locking mutex
+DEBUG:    window finished locking mutex
+DEBUG:    window locking mutex
+DEBUG:    window finished locking mutex
+DEBUG:    window locking mutex
+DEBUG:    render finished locking mutex
+DEBUG:    window finished locking mutex
+WARNING:  Render update is behind -456612 microseconds!
+DEBUG:    render locking mutex
+DEBUG:    window locking mutex
+DEBUG:    window finished locking mutex
+DEBUG:    window locking mutex
+DEBUG:    window finished locking mutex
+DEBUG:    window locking mutex
+DEBUG:    render finished locking mutex
+DEBUG:    window finished locking mutex
+WARNING:  Render update is behind -465834 microseconds!
+DEBUG:    render locking mutex
+DEBUG:    window locking mutex
+DEBUG:    window finished locking mutex
+DEBUG:    window locking mutex
+DEBUG:    window finished locking mutex
+DEBUG:    window locking mutex
+DEBUG:    render finished locking mutex
+WARNING:  Render update is behind -465125 microseconds!
+DEBUG:    render locking mutex
+DEBUG:    window finished locking mutex
+DEBUG:    window locking mutex
+DEBUG:    render finished locking mutex
+WARNING:  Render update is behind -425051 microseconds!
+DEBUG:    render locking mutex
+DEBUG:    window finished locking mutex
+DEBUG:    window locking mutex
+DEBUG:    render finished locking mutex
+WARNING:  Render update is behind -422203 microseconds!
+DEBUG:    render locking mutex
+DEBUG:    window finished locking mutex
+DEBUG:    window locking mutex
+DEBUG:    render finished locking mutex
+WARNING:  Render update is behind -421466 microseconds!
+DEBUG:    render locking mutex
+DEBUG:    window finished locking mutex
+DEBUG:    window locking mutex
+DEBUG:    render finished locking mutex
+DEBUG:    window finished locking mutex
+WARNING:  Render update is behind -426929 microseconds!
+DEBUG:    render locking mutex
+DEBUG:    window locking mutex
+DEBUG:    window finished locking mutex
+DEBUG:    window locking mutex
+DEBUG:    window finished locking mutex
+DEBUG:    window locking mutex
+DEBUG:    render finished locking mutex
+DEBUG:    window finished locking mutex
+WARNING:  Render update is behind -455002 microseconds!
+DEBUG:    render locking mutex
+DEBUG:    window locking mutex
+DEBUG:    window finished locking mutex
+DEBUG:    window locking mutex
+DEBUG:    window finished locking mutex
+DEBUG:    window locking mutex
+DEBUG:    render finished locking mutex
+DEBUG:    window finished locking mutex
+WARNING:  Render update is behind -465797 microseconds!
+DEBUG:    render locking mutex
+DEBUG:    window locking mutex
+DEBUG:    window finished locking mutex
+DEBUG:    window locking mutex
+DEBUG:    window finished locking mutex
+DEBUG:    window locking mutex
+DEBUG:    render finished locking mutex
+DEBUG:    window finished locking mutex
+WARNING:  Render update is behind -452420 microseconds!
+DEBUG:    render locking mutex
+DEBUG:    window locking mutex
+DEBUG:    window finished locking mutex
+DEBUG:    window locking mutex
+DEBUG:    window finished locking mutex
+DEBUG:    window locking mutex
+DEBUG:    render finished locking mutex
+DEBUG:    window finished locking mutex
+WARNING:  Render update is behind -455041 microseconds!
+DEBUG:    render locking mutex
+DEBUG:    window locking mutex
+DEBUG:    window finished locking mutex
+DEBUG:    window locking mutex
+DEBUG:    window finished locking mutex
+DEBUG:    window locking mutex
+DEBUG:    render finished locking mutex
+WARNING:  Render update is behind -453520 microseconds!
+DEBUG:    render locking mutex
+DEBUG:    window finished locking mutex
+DEBUG:    window locking mutex
+DEBUG:    render finished locking mutex
+WARNING:  Render update is behind -423149 microseconds!
+DEBUG:    render locking mutex
+DEBUG:    window finished locking mutex
+DEBUG:    window locking mutex
+DEBUG:    render finished locking mutex
+WARNING:  Render update is behind -421790 microseconds!
+DEBUG:    render locking mutex
+DEBUG:    window finished locking mutex
+DEBUG:    window locking mutex
+DEBUG:    render finished locking mutex
+WARNING:  Render update is behind -422153 microseconds!
+DEBUG:    render locking mutex
+DEBUG:    window finished locking mutex
+DEBUG:    window locking mutex
+DEBUG:    render finished locking mutex
+WARNING:  Render update is behind -434365 microseconds!
+DEBUG:    render locking mutex
+DEBUG:    window finished locking mutex
+DEBUG:    window locking mutex
+DEBUG:    render finished locking mutex
+WARNING:  Render update is behind -420161 microseconds!
+DEBUG:    render locking mutex
+DEBUG:    window finished locking mutex
+DEBUG:    window locking mutex
+DEBUG:    render finished locking mutex
+DEBUG:    window finished locking mutex
+WARNING:  Render update is behind -421658 microseconds!
+DEBUG:    render locking mutex
+DEBUG:    window locking mutex
+DEBUG:    render finished locking mutex
+DEBUG:    window finished locking mutex
+WARNING:  Render update is behind -422466 microseconds!
+DEBUG:    render locking mutex
+DEBUG:    window locking mutex
+DEBUG:    window finished locking mutex
+DEBUG:    window locking mutex
+DEBUG:    window finished locking mutex
+DEBUG:    window locking mutex
+DEBUG:    render finished locking mutex
+DEBUG:    window finished locking mutex
+WARNING:  Render update is behind -457006 microseconds!
+DEBUG:    render locking mutex
+DEBUG:    window locking mutex
+DEBUG:    window finished locking mutex
+DEBUG:    window locking mutex
+DEBUG:    window finished locking mutex
+DEBUG:    window locking mutex
+DEBUG:    render finished locking mutex
+DEBUG:    window finished locking mutex
+WARNING:  Render update is behind -464945 microseconds!
+DEBUG:    render locking mutex
+DEBUG:    window locking mutex
+DEBUG:    window finished locking mutex
+DEBUG:    window locking mutex
+DEBUG:    window finished locking mutex
+DEBUG:    window locking mutex
+DEBUG:    render finished locking mutex
+DEBUG:    window finished locking mutex
+WARNING:  Render update is behind -456195 microseconds!
+DEBUG:    render locking mutex
+DEBUG:    window locking mutex
+DEBUG:    window finished locking mutex
+DEBUG:    window locking mutex
+DEBUG:    render finished locking mutex
+DEBUG:    window finished locking mutex
+WARNING:  Render update is behind -456601 microseconds!
+DEBUG:    render locking mutex
+DEBUG:    window locking mutex
+DEBUG:    render finished locking mutex
+DEBUG:    window finished locking mutex
+WARNING:  Render update is behind -425174 microseconds!
+DEBUG:    render locking mutex
+DEBUG:    window locking mutex
+DEBUG:    window finished locking mutex
+DEBUG:    window locking mutex
+DEBUG:    window finished locking mutex
+DEBUG:    window locking mutex
+DEBUG:    render finished locking mutex
+DEBUG:    window finished locking mutex
+WARNING:  Render update is behind -458400 microseconds!
+DEBUG:    render locking mutex
+DEBUG:    window locking mutex
+DEBUG:    window finished locking mutex
+DEBUG:    window locking mutex
+DEBUG:    window finished locking mutex
+DEBUG:    window locking mutex
+DEBUG:    window finished locking mutex
+DEBUG:    window locking mutex
+DEBUG:    window finished locking mutex
+DEBUG:    window locking mutex
+DEBUG:    window finished locking mutex
+DEBUG:    window locking mutex
+DEBUG:    window finished locking mutex
+DEBUG:    window locking mutex
+DEBUG:    render finished locking mutex
+DEBUG:    window finished locking mutex
+WARNING:  Render update is behind -585682 microseconds!
+DEBUG:    render locking mutex
+DEBUG:    window locking mutex
+DEBUG:    window finished locking mutex
+DEBUG:    window locking mutex
+DEBUG:    window finished locking mutex
+DEBUG:    window locking mutex
+DEBUG:    render finished locking mutex
+WARNING:  Render update is behind -467337 microseconds!
+DEBUG:    render locking mutex
+DEBUG:    window finished locking mutex
+DEBUG:    window locking mutex
+DEBUG:    render finished locking mutex
+WARNING:  Render update is behind -440728 microseconds!
+DEBUG:    render locking mutex
+DEBUG:    window finished locking mutex
+DEBUG:    window locking mutex
+DEBUG:    render finished locking mutex
+WARNING:  Render update is behind -504709 microseconds!
+DEBUG:    render locking mutex
+DEBUG:    window finished locking mutex
+INFO:     Cleaning up...

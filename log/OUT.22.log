@@ -1,0 +1,26 @@
+DEBUG:    Initializing...
+DEBUG:    Getting video modes...
+DEBUG:    Creating window with resolution of 1366x768...
+DEBUG:    Loading images...
+DEBUG:    Initializing Status_Menu...
+DEBUG:    Starting window render loop...
+DEBUG:    Starting window event loop...
+INFO:     Initialization Finished
+WARNING:  Render update is behind -790203 microseconds!
+WARNING:  Render update is behind -469550 microseconds!
+WARNING:  Render update is behind -856402 microseconds!
+WARNING:  Render update is behind -470461 microseconds!
+WARNING:  Render update is behind -480136 microseconds!
+WARNING:  Render update is behind -467370 microseconds!
+WARNING:  Render update is behind -448047 microseconds!
+WARNING:  Render update is behind -456256 microseconds!
+WARNING:  Render update is behind -674313 microseconds!
+WARNING:  Render update is behind -893549 microseconds!
+WARNING:  Render update is behind -793336 microseconds!
+WARNING:  Render update is behind -779185 microseconds!
+WARNING:  Render update is behind -754706 microseconds!
+WARNING:  Render update is behind -534626 microseconds!
+WARNING:  Render update is behind -474471 microseconds!
+WARNING:  Render update is behind -504225 microseconds!
+WARNING:  Render update is behind -470271 microseconds!
+INFO:     Cleaning up...

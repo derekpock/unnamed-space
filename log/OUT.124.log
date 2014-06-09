@@ -1,0 +1,30 @@
+DEBUG:    Initializing...
+DEBUG:    Getting video modes...
+DEBUG:    Creating window with resolution of 1366x768...
+DEBUG:    Loading images...
+DEBUG:    Initializing Status_Menu...
+DEBUG:    Starting window render loop...
+DEBUG:    Starting window event loop...
+INFO:     Initialization Finished
+DEBUG:    Set FPS to 30
+DEBUG:    1737.000000
+WARNING:  Render update is behind -14391 microseconds! Current FPS: 21
+DEBUG:    2791.000000
+WARNING:  Render update is behind -10526 microseconds! Current FPS: 23
+DEBUG:    2821.000000
+DEBUG:    2851.000000
+DEBUG:    2881.000000
+DEBUG:    2911.000000
+DEBUG:    2941.000000
+DEBUG:    2971.000000
+DEBUG:    3001.000000
+DEBUG:    3031.000000
+WARNING:  Render update is behind -5141 microseconds! Current FPS: 26
+DEBUG:    3061.000000
+DEBUG:    3091.000000
+DEBUG:    3121.000000
+DEBUG:    3151.000000
+DEBUG:    3181.000000
+DEBUG:    3211.000000
+DEBUG:    3241.000000
+INFO:     Cleaning up...

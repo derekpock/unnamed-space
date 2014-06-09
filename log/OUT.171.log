@@ -1,0 +1,133 @@
+DEBUG:    Initializing...
+DEBUG:    Initializing Main_Info...
+DEBUG:    Found querty option.
+DEBUG:    Getting video modes...
+DEBUG:    Creating window with resolution of 1366x768...
+DEBUG:    Loading images...
+DEBUG:    Initializing Status_Menu...
+DEBUG:    Starting window render loop...
+DEBUG:    Starting window event loop...
+INFO:     Initialization Finished
+DEBUG:    Set FPS to 30
+DEBUG:    0
+WARNING:  Render update is behind -31605 microseconds! Current FPS: 15
+DEBUG:    0
+WARNING:  Render update is behind -64079 microseconds! Current FPS: 10
+DEBUG:    0
+DEBUG:    0
+DEBUG:    0
+WARNING:  Render update is behind -1091 microseconds! Current FPS: 29
+DEBUG:    0
+WARNING:  Render update is behind -8847 microseconds! Current FPS: 24
+DEBUG:    0
+DEBUG:    0
+DEBUG:    0
+WARNING:  Render update is behind -5080 microseconds! Current FPS: 26
+DEBUG:    0
+DEBUG:    0
+DEBUG:    0
+DEBUG:    0
+DEBUG:    0
+DEBUG:    0
+DEBUG:    0
+DEBUG:    0
+DEBUG:    0
+DEBUG:    0
+DEBUG:    0
+DEBUG:    0
+DEBUG:    0
+DEBUG:    0
+DEBUG:    0
+DEBUG:    0
+DEBUG:    0
+DEBUG:    0
+DEBUG:    -1
+DEBUG:    -1
+DEBUG:    -2
+DEBUG:    -2
+DEBUG:    -3
+DEBUG:    -3
+DEBUG:    -4
+DEBUG:    -4
+DEBUG:    -5
+DEBUG:    -5
+DEBUG:    -6
+DEBUG:    -6
+DEBUG:    -7
+DEBUG:    -7
+DEBUG:    -8
+DEBUG:    -8
+DEBUG:    -9
+DEBUG:    -9
+DEBUG:    -10
+DEBUG:    -10
+DEBUG:    -11
+DEBUG:    -11
+DEBUG:    -12
+DEBUG:    -12
+DEBUG:    -13
+DEBUG:    -13
+DEBUG:    -14
+DEBUG:    -14
+DEBUG:    -15
+DEBUG:    -15
+DEBUG:    -16
+DEBUG:    -16
+DEBUG:    -17
+DEBUG:    -17
+DEBUG:    -18
+DEBUG:    -18
+DEBUG:    -19
+DEBUG:    -19
+DEBUG:    -20
+DEBUG:    -20
+DEBUG:    -21
+DEBUG:    -21
+DEBUG:    -22
+DEBUG:    -22
+DEBUG:    -23
+DEBUG:    -23
+DEBUG:    -24
+DEBUG:    -24
+DEBUG:    -25
+DEBUG:    -25
+DEBUG:    -26
+DEBUG:    -26
+DEBUG:    -27
+DEBUG:    -27
+DEBUG:    -28
+DEBUG:    -28
+DEBUG:    -29
+DEBUG:    -29
+DEBUG:    -30
+DEBUG:    -30
+DEBUG:    -31
+DEBUG:    -31
+DEBUG:    -32
+DEBUG:    -32
+DEBUG:    -33
+DEBUG:    -33
+DEBUG:    -34
+DEBUG:    -34
+DEBUG:    -35
+DEBUG:    -35
+DEBUG:    -36
+DEBUG:    -36
+DEBUG:    -37
+DEBUG:    -37
+DEBUG:    -38
+DEBUG:    -38
+DEBUG:    -39
+DEBUG:    -39
+DEBUG:    -40
+DEBUG:    -40
+DEBUG:    -41
+DEBUG:    -41
+DEBUG:    -42
+DEBUG:    -42
+DEBUG:    -42
+DEBUG:    -42
+DEBUG:    -42
+DEBUG:    -42
+DEBUG:    -42
+INFO:     Cleaning up...

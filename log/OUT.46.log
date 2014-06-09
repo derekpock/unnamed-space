@@ -1,0 +1,65 @@
+DEBUG:    Initializing...
+DEBUG:    Getting video modes...
+DEBUG:    Creating window with resolution of 1366x768...
+DEBUG:    Loading images...
+DEBUG:    Initializing Status_Menu...
+DEBUG:    Starting window render loop...
+WARNING:  Render update is behind -874340 microseconds!
+DEBUG:    Starting window event loop...
+INFO:     Initialization Finished
+WARNING:  Render update is behind -600115 microseconds!
+WARNING:  Render update is behind -494050 microseconds!
+WARNING:  Render update is behind -438158 microseconds!
+WARNING:  Render update is behind -434616 microseconds!
+WARNING:  Render update is behind -442706 microseconds!
+WARNING:  Render update is behind -448781 microseconds!
+WARNING:  Render update is behind -439273 microseconds!
+WARNING:  Render update is behind -429370 microseconds!
+WARNING:  Render update is behind -430072 microseconds!
+WARNING:  Render update is behind -469722 microseconds!
+WARNING:  Render update is behind -452476 microseconds!
+WARNING:  Render update is behind -450420 microseconds!
+WARNING:  Render update is behind -449754 microseconds!
+WARNING:  Render update is behind -447644 microseconds!
+WARNING:  Render update is behind -463696 microseconds!
+WARNING:  Render update is behind -453305 microseconds!
+WARNING:  Render update is behind -450821 microseconds!
+WARNING:  Render update is behind -442703 microseconds!
+WARNING:  Render update is behind -452355 microseconds!
+WARNING:  Render update is behind -449914 microseconds!
+WARNING:  Render update is behind -463176 microseconds!
+WARNING:  Render update is behind -479827 microseconds!
+WARNING:  Render update is behind -445689 microseconds!
+WARNING:  Render update is behind -442588 microseconds!
+WARNING:  Render update is behind -447371 microseconds!
+WARNING:  Render update is behind -442888 microseconds!
+WARNING:  Render update is behind -447789 microseconds!
+WARNING:  Render update is behind -440574 microseconds!
+WARNING:  Render update is behind -447127 microseconds!
+WARNING:  Render update is behind -442718 microseconds!
+WARNING:  Render update is behind -444295 microseconds!
+WARNING:  Render update is behind -442500 microseconds!
+WARNING:  Render update is behind -446010 microseconds!
+WARNING:  Render update is behind -453532 microseconds!
+WARNING:  Render update is behind -447263 microseconds!
+WARNING:  Render update is behind -447670 microseconds!
+WARNING:  Render update is behind -499262 microseconds!
+WARNING:  Render update is behind -474865 microseconds!
+WARNING:  Render update is behind -614419 microseconds!
+WARNING:  Render update is behind -436573 microseconds!
+WARNING:  Render update is behind -427657 microseconds!
+WARNING:  Render update is behind -445769 microseconds!
+WARNING:  Render update is behind -454679 microseconds!
+WARNING:  Render update is behind -458473 microseconds!
+WARNING:  Render update is behind -451495 microseconds!
+WARNING:  Render update is behind -456698 microseconds!
+WARNING:  Render update is behind -450111 microseconds!
+WARNING:  Render update is behind -449493 microseconds!
+WARNING:  Render update is behind -449763 microseconds!
+WARNING:  Render update is behind -450600 microseconds!
+WARNING:  Render update is behind -452137 microseconds!
+WARNING:  Render update is behind -453873 microseconds!
+WARNING:  Render update is behind -448753 microseconds!
+WARNING:  Render update is behind -452484 microseconds!
+WARNING:  Render update is behind -446593 microseconds!
+WARNING:  Render update is behind -463787 microseconds!

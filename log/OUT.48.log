@@ -1,0 +1,36 @@
+DEBUG:    Initializing...
+DEBUG:    Getting video modes...
+DEBUG:    Creating window with resolution of 1366x768...
+DEBUG:    Loading images...
+DEBUG:    Initializing Status_Menu...
+DEBUG:    Starting window render loop...
+DEBUG:    Starting window event loop...
+INFO:     Initialization Finished
+WARNING:  Render update is behind -1046622 microseconds!
+WARNING:  Render update is behind -440717 microseconds!
+WARNING:  Render update is behind -443654 microseconds!
+WARNING:  Render update is behind -445091 microseconds!
+WARNING:  Render update is behind -427386 microseconds!
+WARNING:  Render update is behind -417786 microseconds!
+WARNING:  Render update is behind -422986 microseconds!
+WARNING:  Render update is behind -441851 microseconds!
+WARNING:  Render update is behind -438678 microseconds!
+WARNING:  Render update is behind -436183 microseconds!
+WARNING:  Render update is behind -430460 microseconds!
+WARNING:  Render update is behind -430435 microseconds!
+WARNING:  Render update is behind -433579 microseconds!
+WARNING:  Render update is behind -428542 microseconds!
+WARNING:  Render update is behind -433690 microseconds!
+WARNING:  Render update is behind -425597 microseconds!
+WARNING:  Render update is behind -431604 microseconds!
+WARNING:  Render update is behind -470072 microseconds!
+WARNING:  Render update is behind -437100 microseconds!
+WARNING:  Render update is behind -439145 microseconds!
+WARNING:  Render update is behind -435275 microseconds!
+WARNING:  Render update is behind -431087 microseconds!
+WARNING:  Render update is behind -432668 microseconds!
+WARNING:  Render update is behind -446026 microseconds!
+WARNING:  Render update is behind -441727 microseconds!
+WARNING:  Render update is behind -434275 microseconds!
+WARNING:  Render update is behind -532128 microseconds!
+INFO:     Cleaning up...

@@ -1,0 +1,38 @@
+DEBUG:    Initializing...
+DEBUG:    Initializing Main_Info...
+DEBUG:    Found querty option.
+DEBUG:    Getting video modes...
+DEBUG:    Creating window with resolution of 1366x768...
+DEBUG:    Loading images...
+DEBUG:    Initializing Status_Menu...
+DEBUG:    Starting window render loop...
+DEBUG:    Starting window event loop...
+INFO:     Initialization Finished
+DEBUG:    Set FPS to 30
+WARNING:  Render update is behind -23212 microseconds! Current FPS: 18
+WARNING:  Render update is behind -18677 microseconds! Current FPS: 19
+WARNING:  Render update is behind -5502 microseconds! Current FPS: 26
+WARNING:  Render update is behind -7093 microseconds! Current FPS: 25
+WARNING:  Render update is behind -1601 microseconds! Current FPS: 29
+WARNING:  Render update is behind -389 microseconds! Current FPS: 30
+WARNING:  Render update is behind -142 microseconds! Current FPS: 30
+WARNING:  Render update is behind -7041 microseconds! Current FPS: 25
+WARNING:  Render update is behind -9480 microseconds! Current FPS: 23
+WARNING:  Render update is behind -4567 microseconds! Current FPS: 26
+WARNING:  Render update is behind -4297 microseconds! Current FPS: 27
+WARNING:  Render update is behind -3046 microseconds! Current FPS: 27
+WARNING:  Render update is behind -8843 microseconds! Current FPS: 24
+WARNING:  Render update is behind -1855 microseconds! Current FPS: 28
+WARNING:  Render update is behind -10081 microseconds! Current FPS: 23
+WARNING:  Render update is behind -9374 microseconds! Current FPS: 23
+WARNING:  Render update is behind -2175 microseconds! Current FPS: 28
+WARNING:  Render update is behind -13378 microseconds! Current FPS: 21
+WARNING:  Render update is behind -560 microseconds! Current FPS: 30
+WARNING:  Render update is behind -1781 microseconds! Current FPS: 28
+WARNING:  Render update is behind -244 microseconds! Current FPS: 30
+WARNING:  Render update is behind -149 microseconds! Current FPS: 30
+WARNING:  Render update is behind -804 microseconds! Current FPS: 29
+WARNING:  Render update is behind -921 microseconds! Current FPS: 29
+WARNING:  Render update is behind -6269 microseconds! Current FPS: 25
+WARNING:  Render update is behind -2746 microseconds! Current FPS: 28
+INFO:     Cleaning up...

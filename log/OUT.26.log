@@ -1,0 +1,49 @@
+DEBUG:    Initializing...
+DEBUG:    Getting video modes...
+DEBUG:    Creating window with resolution of 1366x768...
+DEBUG:    Loading images...
+DEBUG:    Initializing Status_Menu...
+DEBUG:    Starting window render loop...
+DEBUG:    Starting window event loop...
+INFO:     Initialization Finished
+WARNING:  Render update is behind -724180 microseconds!
+WARNING:  Render update is behind -475312 microseconds!
+WARNING:  Render update is behind -509165 microseconds!
+WARNING:  Render update is behind -478568 microseconds!
+WARNING:  Render update is behind -424016 microseconds!
+WARNING:  Render update is behind -433736 microseconds!
+WARNING:  Render update is behind -425321 microseconds!
+WARNING:  Render update is behind -444351 microseconds!
+WARNING:  Render update is behind -437643 microseconds!
+WARNING:  Render update is behind -435689 microseconds!
+WARNING:  Render update is behind -440754 microseconds!
+WARNING:  Render update is behind -435927 microseconds!
+WARNING:  Render update is behind -433381 microseconds!
+WARNING:  Render update is behind -444179 microseconds!
+WARNING:  Render update is behind -438446 microseconds!
+WARNING:  Render update is behind -435728 microseconds!
+WARNING:  Render update is behind -438916 microseconds!
+WARNING:  Render update is behind -440935 microseconds!
+WARNING:  Render update is behind -438293 microseconds!
+WARNING:  Render update is behind -432690 microseconds!
+WARNING:  Render update is behind -435132 microseconds!
+WARNING:  Render update is behind -441291 microseconds!
+WARNING:  Render update is behind -436028 microseconds!
+WARNING:  Render update is behind -433252 microseconds!
+WARNING:  Render update is behind -434923 microseconds!
+WARNING:  Render update is behind -435736 microseconds!
+WARNING:  Render update is behind -436480 microseconds!
+WARNING:  Render update is behind -442343 microseconds!
+WARNING:  Render update is behind -436477 microseconds!
+WARNING:  Render update is behind -437052 microseconds!
+WARNING:  Render update is behind -436032 microseconds!
+WARNING:  Render update is behind -433192 microseconds!
+WARNING:  Render update is behind -436380 microseconds!
+WARNING:  Render update is behind -527558 microseconds!
+WARNING:  Render update is behind -465701 microseconds!
+WARNING:  Render update is behind -429154 microseconds!
+WARNING:  Render update is behind -429617 microseconds!
+WARNING:  Render update is behind -431230 microseconds!
+WARNING:  Render update is behind -506037 microseconds!
+WARNING:  Render update is behind -516951 microseconds!
+INFO:     Cleaning up...

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="unnamed space" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/unnamed space" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add option="-std=gnu++11" />
+					<Add directory="C:/Users/Derek/Copy/unnamed space/SFML-2.1/include" />
+				</Compiler>
+				<Linker>
+					<Add library="SFML-2.1\lib\libsfml-audio-s-d.a" />
+					<Add library="SFML-2.1\lib\libsfml-graphics-s-d.a" />
+					<Add library="SFML-2.1\lib\libsfml-network-s-d.a" />
+					<Add library="SFML-2.1\lib\libsfml-system-s-d.a" />
+					<Add library="SFML-2.1\lib\libsfml-window-s-d.a" />
+					<Add directory="C:/Users/Derek/Copy/unnamed space/SFML-2.1/lib" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/unnamed space" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+					<Add library="SFML-2.1\lib\libsfml-audio-s.a" />
+					<Add library="SFML-2.1\lib\libsfml-graphics-s.a" />
+					<Add library="SFML-2.1\lib\libsfml-network-s.a" />
+					<Add library="SFML-2.1\lib\libsfml-system-s.a" />
+					<Add library="SFML-2.1\lib\libsfml-window-s.a" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add directory="SFML-2.1/include" />
+		</Compiler>
+		<Linker>
+			<Add library="SFML-2.1\lib\libsfml-graphics.so" />
+			<Add library="SFML-2.1\lib\libsfml-window.so" />
+			<Add library="SFML-2.1\lib\libsfml-system.so" />
+			<Add library="SFML-2.1\lib\libsfml-audio.so" />
+			<Add library="SFML-2.1\lib\libsfml-network.so" />
+			<Add directory="SFML-2.1/lib" />
+		</Linker>
+		<Unit filename="src/main/images.cpp" />
+		<Unit filename="src/main/images.hpp" />
+		<Unit filename="src/main/info.cpp" />
+		<Unit filename="src/main/info.hpp" />
+		<Unit filename="src/main/log.cpp" />
+		<Unit filename="src/main/log.hpp" />
+		<Unit filename="src/main/main.cpp" />
+		<Unit filename="src/status/menu/main.cpp" />
+		<Unit filename="src/status/menu/main.hpp" />
+		<Unit filename="src/status/menu/text.cpp" />
+		<Unit filename="src/status/menu/text.hpp" />
+		<Unit filename="src/status/menu/training.cpp" />
+		<Unit filename="src/status/menu/training.hpp" />
+		<Extensions>
+			<code_completion />
+			<debugger />
+			<envvars />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

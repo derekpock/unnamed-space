@@ -1,0 +1,85 @@
+DEBUG:    Initializing...
+DEBUG:    Getting video modes...
+DEBUG:    Creating window with resolution of 1366x768...
+DEBUG:    Loading images...
+DEBUG:    Initializing Status_Menu...
+DEBUG:    Starting window render loop...
+DEBUG:    Starting window event loop...
+INFO:     Initialization Finished
+DEBUG:    Set FPS to 30
+DEBUG:    1024
+WARNING:  Render update is behind -17025 microseconds! Current FPS: 20
+DEBUG:    1024
+WARNING:  Render update is behind -28027 microseconds! Current FPS: 16
+DEBUG:    1024
+DEBUG:    1024
+DEBUG:    1024
+DEBUG:    1024
+DEBUG:    1024
+DEBUG:    1024
+WARNING:  Render update is behind -2218 microseconds! Current FPS: 28
+DEBUG:    1024
+DEBUG:    1024
+DEBUG:    1024
+DEBUG:    1024
+DEBUG:    1024
+DEBUG:    1024
+DEBUG:    1024
+DEBUG:    1024
+DEBUG:    1024
+DEBUG:    1024
+DEBUG:    1024
+DEBUG:    1024
+DEBUG:    1024
+DEBUG:    1024
+DEBUG:    1024
+DEBUG:    1024
+DEBUG:    1024
+DEBUG:    1024
+DEBUG:    1024
+DEBUG:    1024
+DEBUG:    1024
+DEBUG:    1024
+DEBUG:    1024
+DEBUG:    1024
+DEBUG:    1024
+DEBUG:    1024
+DEBUG:    1024
+DEBUG:    1024
+DEBUG:    1024
+DEBUG:    1024
+DEBUG:    1024
+DEBUG:    1024
+DEBUG:    1024
+DEBUG:    1024
+DEBUG:    1024
+DEBUG:    1024
+DEBUG:    1024
+DEBUG:    1024
+DEBUG:    1024
+DEBUG:    1024
+DEBUG:    1024
+DEBUG:    1024
+DEBUG:    1024
+DEBUG:    1024
+DEBUG:    1024
+DEBUG:    1024
+DEBUG:    1024
+DEBUG:    1024
+DEBUG:    1024
+DEBUG:    1024
+DEBUG:    1024
+DEBUG:    1024
+DEBUG:    1024
+DEBUG:    1024
+DEBUG:    1024
+DEBUG:    1024
+DEBUG:    1024
+DEBUG:    1024
+DEBUG:    1024
+DEBUG:    1024
+DEBUG:    1024
+DEBUG:    1024
+DEBUG:    1024
+DEBUG:    1024
+INFO:     Cleaning up...

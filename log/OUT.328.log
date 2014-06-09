@@ -1,0 +1,24 @@
+DEBUG:    Initializing...
+DEBUG:    Initializing Main_Info...
+DEBUG:    Found querty option.
+DEBUG:    Getting video modes...
+DEBUG:    Creating window with resolution of 1366x768...
+DEBUG:    Loading images...
+DEBUG:    Initializing Status_Menu...
+DEBUG:    Starting window render loop...
+INFO:     Initialization Finished
+DEBUG:    FPS: 50
+DEBUG:    FPS: 52
+DEBUG:    FPS: 54
+DEBUG:    FPS: 55
+DEBUG:    FPS: 53
+DEBUG:    FPS: 52
+DEBUG:    FPS: 56
+DEBUG:    FPS: 55
+DEBUG:    FPS: 54
+DEBUG:    FPS: 53
+DEBUG:    FPS: 54
+DEBUG:    FPS: 55
+DEBUG:    FPS: 55
+DEBUG:    FPS: 52
+DEBUG:    FPS: 48

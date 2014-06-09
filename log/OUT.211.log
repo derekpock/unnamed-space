@@ -1,0 +1,63 @@
+DEBUG:    Initializing...
+DEBUG:    Initializing Main_Info...
+DEBUG:    Found querty option.
+DEBUG:    Getting video modes...
+DEBUG:    Creating window with resolution of 1366x768...
+DEBUG:    Loading images...
+DEBUG:    Initializing Status_Menu...
+DEBUG:    Starting window render loop...
+DEBUG:    Starting window event loop...
+INFO:     Initialization Finished
+DEBUG:    Set FPS to 30
+WARNING:  Render update is behind -10705 microseconds! Current FPS: 23
+WARNING:  Render update is behind -26344 microseconds! Current FPS: 17
+WARNING:  Render update is behind -1885 microseconds! Current FPS: 28
+WARNING:  Render update is behind -22298 microseconds! Current FPS: 18
+WARNING:  Render update is behind -685 microseconds! Current FPS: 29
+WARNING:  Render update is behind -32266 microseconds! Current FPS: 15
+WARNING:  Render update is behind -10274 microseconds! Current FPS: 23
+WARNING:  Render update is behind -17244 microseconds! Current FPS: 20
+DEBUG:    343.500000
+DEBUG:    356.833344
+DEBUG:    359.125000
+DEBUG:    359.564819
+DEBUG:    359.686340
+DEBUG:    359.746796
+DEBUG:    359.790344
+DEBUG:    359.825500
+DEBUG:    359.854645
+DEBUG:    359.878876
+DEBUG:    359.899048
+DEBUG:    359.915894
+DEBUG:    359.929901
+DEBUG:    359.941589
+DEBUG:    359.951324
+DEBUG:    359.959442
+DEBUG:    359.966187
+WARNING:  Render update is behind -13207 microseconds! Current FPS: 21
+DEBUG:    359.971832
+DEBUG:    359.976532
+DEBUG:    359.980438
+DEBUG:    359.983704
+DEBUG:    359.986420
+DEBUG:    359.988678
+DEBUG:    359.990570
+DEBUG:    359.992126
+DEBUG:    359.993439
+DEBUG:    359.994537
+DEBUG:    359.995453
+DEBUG:    359.996216
+DEBUG:    359.996826
+DEBUG:    359.997375
+DEBUG:    359.997803
+DEBUG:    359.998169
+DEBUG:    359.998474
+DEBUG:    359.998718
+DEBUG:    359.998932
+DEBUG:    359.999115
+DEBUG:    359.999268
+DEBUG:    359.999390
+DEBUG:    359.999481
+DEBUG:    359.999573
+DEBUG:    359.999634
+INFO:     Cleaning up...
